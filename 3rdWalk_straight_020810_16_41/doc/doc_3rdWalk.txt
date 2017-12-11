@@ -1,0 +1,6 @@
+Stamp for synchronisation
+Shoe with 7 markers (4 outside, 1 inside,1 front, 1 top)
+60sec straight up and down walking
+Normal floor
+TS1 = 513.330
+TS2 = 1280760037.879

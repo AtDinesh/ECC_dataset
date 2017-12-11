@@ -1,0 +1,6 @@
+Stamp for synchronisation
+Shoe with 7 markers (4 outside, 1 inside,1 front, 1 top)
+60sec walking an 8 shape
+Normal floor
+TS1 = 818.920
+TS2 = 1280760343.466
